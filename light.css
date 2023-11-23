@@ -1,0 +1,26 @@
+body {
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+h1, h2, h3 {
+  color: #333;
+}
+
+a {
+  color: #0077cc;
+}
+
+button {
+  background-color: #0077cc;
+  color: #fff;
+  background: #833ab4;
+  background: -webkit-linear-gradient(to right, #45fcb0 , #1d82fd , #833ab4);
+  background: linear-gradient(to right, #45fcb0 , #1d82fd , #833ab4);
+  padding: 20px 60px;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+} 
+
+/* Add more styles as needed */
